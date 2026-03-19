@@ -1,6 +1,6 @@
 # ☕ Meus Primeiros Passos no Java
 
-Fala aí! Sou estudante de Ciência da Computação** e este repositório é onde estou guardando os meus primeiros códigos "reais". 
+Fala aí! Sou estudante de **Ciência da Computação** e este repositório é onde estou guardando os meus primeiros códigos "reais". 
 
 Não são sistemas complexos ainda, mas cada um desses arquivos representa uma barreira que eu quebrei aprendendo lógica de programação, loops e como o Java funciona de verdade.
 
