@@ -16,14 +16,6 @@ public class ContadorPares {
             contador--;
         }
 
-
-
-
-
-
-
-
-
         sc.close();
     }
 }
