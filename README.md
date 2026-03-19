@@ -26,7 +26,7 @@ Um filtro simples para mostrar apenas números pares.
 
 ## 🛠️ O que estou usando
 * **Java 17** (JDK).
-* **IntelliJ IDEA** (apanhei um pouco do Git no começo, mas agora vai!).
+* **IntelliJ IDEA**.
 * **Git & GitHub** para não perder nada e montar meu portfólio.
 
 ## 🚀 Como testar
