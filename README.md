@@ -8,7 +8,7 @@ Não são sistemas complexos ainda, mas cada um desses arquivos representa uma b
 
 ## 📂 O que eu já consegui fazer:
 
-### 🧮 Calculadora de Fluxo (Acumuladora)
+### 🧮 [Calculadora de Fluxo (Acumuladora)](./src/CalculadoraAcumuladora.java)
 Um sistema de menu interativo para operações financeiras básicas.
 * **O que faz:** Permite somar ou subtrair valores de um montante total em tempo real.
 * **Conceitos Aplicados:** Controle de fluxo com `do-while`, garantindo que o menu seja exibido pelo menos uma vez, e manipulação de estados (variável acumuladora).
