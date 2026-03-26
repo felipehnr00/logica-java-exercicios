@@ -8,6 +8,12 @@ Não são sistemas complexos ainda, mas cada um desses arquivos representa uma b
 
 ## 📂 O que eu já consegui fazer:
 
+### 🧮 Calculadora de Fluxo (Acumuladora)
+Um sistema de menu interativo para operações financeiras básicas.
+* **O que faz:** Permite somar ou subtrair valores de um montante total em tempo real.
+* **Conceitos Aplicados:** Controle de fluxo com `do-while`, garantindo que o menu seja exibido pelo menos uma vez, e manipulação de estados (variável acumuladora).
+* **Desafio:** Validar as opções do menu para que o programa só encerre quando o usuário digitar `0`.
+
 ### 🎮 [Jogo de Adivinhação](./src/JogoAdivinhacao.java)
 Aquele clássico: o PC escolhe um número e eu tento acertar. 
 * **O que me deu trabalho:** Entender como fazer o loop parar exatamente quando eu acertava e como usar o `Random` para o número não ser sempre o mesmo.
