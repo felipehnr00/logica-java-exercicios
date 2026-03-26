@@ -8,7 +8,7 @@ public class CalculadoraAcumuladora {
         int total = 0;
         int opcao;
 
-        System.out.println("Bem-vindo à Calculadora Interativa");
+        System.out.println("Bem-vindo à Calculadora Acumuladora");
 
         do {
             System.out.println("Total atual: " + total);
